@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
-import pickle
+import pickle 
 from itertools import cycle
 
 # Load pre-trained KMeans model and scaler
